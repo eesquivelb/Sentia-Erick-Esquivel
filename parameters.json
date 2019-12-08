@@ -1,0 +1,30 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sites_LekkerShop_name": {
+            "value": null
+        },
+        "vaults_assessmetkey_name": {
+            "value": null
+        },
+        "components_LekkerShop_name": {
+            "value": null
+        },
+        "publicIPAddresses_Carga_name": {
+            "value": null
+        },
+        "loadBalancers_Equilibrador_name": {
+            "value": null
+        },
+        "serverfarms_ASP_Assessment_8adb_name": {
+            "value": null
+        },
+        "storageAccounts_erickesquivel1_name": {
+            "value": null
+        },
+        "virtualNetworks_myVirtualNetwork_name": {
+            "value": null
+        }
+    }
+}
